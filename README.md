@@ -1,2 +1,26 @@
-# age-calculator-digital-heroes
-Built an Age Calculator web application using HTML, CSS and JavaScript. The tool calculates a user's exact age in years, months and days from their date of birth.
+
+# Age Calculator
+
+A modern Age Calculator built using HTML, CSS and JavaScript.
+
+## Features
+
+- Exact Age Calculation
+- Total Days Lived
+- Next Birthday Countdown
+- Responsive Design
+- Modern UI
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+## Author
+
+Arpita Bhardwaj
+
+## Built For
+
+Digital Heroes Trial Task
